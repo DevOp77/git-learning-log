@@ -8,5 +8,5 @@ I'm learning Git and version control to track my work.
 - Learn branching and merging
 - Push my work to GitHub
 
-git add learning-log.md
-git commit -m "Add What I Learned section"
+## What I Learned Today
+- Git tracks changes to files over time
